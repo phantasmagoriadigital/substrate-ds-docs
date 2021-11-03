@@ -32,7 +32,7 @@ Display options and keyboard shortcuts are available via the ellipsis menu
 icon next to the Substrate DS logo at the top of the sidebar.
 
 If you would like to download and run the Substrate DS Components Storybook
-yourself, you may clone [the respository]('https://github.com/phantasmagoriadigital/components')
+yourself, you may clone [the respository](https://github.com/phantasmagoriadigital/components)
 
 ```sh
 git clone https://github.com/phantasmagoriadigital/components.git
@@ -50,7 +50,7 @@ git clone https://github.com/phantasmagoriadigital/components.git
 
 ### For development
 
-Clone the [Substrate Componenet Respository]('https://github.com/phantasmagoriadigital/components') from GitHub.
+Clone the [Substrate Componenet Respository](https://github.com/phantasmagoriadigital/components) from GitHub.
 
 Install dependencies
 
