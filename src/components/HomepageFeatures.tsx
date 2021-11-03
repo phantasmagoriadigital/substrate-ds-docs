@@ -16,32 +16,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Design library in Figma',
     image: '/img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        A fully customizable design system built on Figma. All components are granularly tokenized using Figma Tokens using base &lt; semantic &lt; component tokens.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'State of the art Toolchain',
     image: '/img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Integration from design to code using state of the art tooling. Figma, Figma Tokens, Design Linting, Style Dictionary, Storybook, Dinosaurus Docs, StencilJS, Cypress, and more.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Agnostic Web Component library',
     image: '/img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        All components are built as web components. This means that they can be used in any modern javascript environment or even in plain html. All components can be themed using Design tokens/CSS variables, built to support a multi-brand scnenario.
       </>
     ),
   },
